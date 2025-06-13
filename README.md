@@ -1,7 +1,7 @@
 
-# Vehicle Registration Rrediction and MLOps Pipeline 🚗📊🚀
+# Vehicle Insurance Purchase Prediction with Complete End to End MLOps pipeline 🚗📊🚀
 
-This repository contains a complete end-to-end Machine Learning pipeline for a **Vehicle Registration Prediction**, integrated with **MongoDB**, **AWS**, and **CI/CD using GitHub Actions and Docker**. It includes data ingestion, validation, transformation, model training, evaluation, deployment, and a web-based prediction app hosted on an EC2 instance.
+This repository contains a complete end-to-end Machine Learning pipeline for a **Vehicle Insurance Purchase Prediction**, integrated with **MongoDB**, **AWS**, and **CI/CD using GitHub Actions and Docker**. It includes data ingestion, validation, transformation, model training, evaluation, deployment, and a web-based prediction app hosted on an EC2 instance.
 
 ---
 
